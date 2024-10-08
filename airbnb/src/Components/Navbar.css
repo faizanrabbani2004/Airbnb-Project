@@ -1,6 +1,6 @@
 /* Basic Styles for the Navbar */
 * {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Cereal", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .navbar {
@@ -23,7 +23,7 @@
 }
 
 .home {
-    font-weight: 900;
+    font-weight: 500;
 }
 
 .logo {
